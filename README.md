@@ -21,10 +21,11 @@ Just download the code and start the index.html file in chrome.
 
 ## Checkout the pages here:
 
-https://packyourbags.netlify.app/
+https://getyourdreamhome.netlify.app/
 
 ## Application Preview
 
 
+![screencapture-getyourdreamhome-netlify-app-2021-10-06-21_29_18](https://user-images.githubusercontent.com/59523944/136240871-9a83e418-99e7-43e7-ad8d-067a279da197.jpg)
 
 
